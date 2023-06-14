@@ -9,7 +9,7 @@ $ makepkg -si
 
 Added AI, how to use:
 
-$ ai "Question"
+> ai "Question"
 
 Reporting bugs in Telegram: @sfugys
 
