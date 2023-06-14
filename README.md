@@ -6,4 +6,5 @@ $ cd fush
 $ makepkg -si
 
 Added AI, how to use:
+
 $ ai "Question"
