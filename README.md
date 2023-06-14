@@ -15,9 +15,13 @@ Reporting bugs in Telegram: @sfugys
 
 For using Fugy Shell toy need to install ruby, examples:
 
-Debian> $ sudo apt install ruby\n
-RHEL> $ sudo rpm install ruby\n
-Arch> $ sudo pacman -S ruby\n
-Void> $ sudo xbps-install -S ruby\n
-Gentoo> $ emerge ruby\n
+Debian> $ sudo apt install ruby
+
+RHEL> $ sudo rpm install ruby
+
+Arch> $ sudo pacman -S ruby
+
+Void> $ sudo xbps-install -S ruby
+
+Gentoo> $ emerge ruby
 
