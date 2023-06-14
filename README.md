@@ -1,9 +1,9 @@
 # fush
 A Fugy Shell written in Ruby
 
-> git clone https://github.com/XineBSD/fush
-> cd fush
-> makepkg -si
+$ git clone https://github.com/XineBSD/fush
+$ cd fush
+$ makepkg -si
 
 Added AI, how to use:
-> ai "Question"
+$ ai "Question"
